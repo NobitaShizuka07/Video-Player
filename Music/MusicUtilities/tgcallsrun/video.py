@@ -22,8 +22,8 @@ from Music.MusicUtilities.tgcallsrun.queues import (
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("Support", url=f"https://t.me/Superior_Support"),
-            InlineKeyboardButton("Channels", url=f"https://t.me/Superior_Bots"),
+            InlineKeyboardButton("Support", url=f"https://t.me/Nobita_Ki_Duniya"),
+            InlineKeyboardButton("Channels", url=f"https://t.me/Nobita_Supports"),
         ]
     ]
 )
